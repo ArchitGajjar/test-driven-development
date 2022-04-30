@@ -17,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/ArchitGajjar/test-driven-development/issues"
   },
-  "homepage": "https://github.com/ArchitGajjar/test-driven-development#readme"
+  "homepage": "https://github.com/ArchitGajjar/test-driven-development#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.2.0"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "figlet": "^1.2.0"
+  }
 }
